@@ -42,8 +42,15 @@ habilidade_d = df_matriz.loc[df_matriz["Descritor"] == descritor, "Habilidade Or
 tema = df_matriz.loc[df_matriz["Descritor"] == descritor, "Tema"]
 
 #logica para tratar se o descritor foi selecionado atraves do checklist ou nao
-if is not descritor or descritor == None:
-    
+if descritor is None:
+    lista_materias = df_matriz["Materia"].dropna().unique().tolist()
+    lista_materias.sort()
+    materia_escolha = st.sidebar.selectbox("ESCOLHA - UMA MATERIA", lista_materias)
+
+    st.session_state["escolha_d"] = descritor
+    conteudos = df_matriz.loc[df_matriz["Materia"] == materia_escolha, "Equivalência EF"].dropna().unique().tolist()
+    descritor_escolha = st.sidebar.selectbox("ESCOLHA - UM CONTEUDO", conteudos)
+
 st.write(f"{descritor}")
 
 
