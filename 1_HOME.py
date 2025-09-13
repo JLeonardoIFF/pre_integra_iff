@@ -1,16 +1,12 @@
 import streamlit as st
 import pandas as pd
 
-if "data_provas_indice" not in st.session_state:
-	df_provas_questoes = pd.read_csv("data/gabaritos_1817232422.csv")
-	st.session_state["data_provas_indice"] = df_provas_questoes
-
 st.set_page_config(page_title="Pré Integra IFF", layout="wide")
 
 @st.cache_data
 def get_data():
     # sempre retorna o dataframe (antes retornava só dentro do if)
-    return pd.read_csv("data/matriz_referencia.csv")
+    return pd.read_csv("data/matrizreferencia.csv")
 
 df_matriz = get_data()
 st.session_state["df_matriz"] = df_matriz

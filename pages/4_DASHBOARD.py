@@ -87,3 +87,7 @@ chart = (
 st.subheader("Grafico de Relevancia X Conteudo")
 st.altair_chart(chart, use_container_width=True)
 
+print(materia_escolha)
+
+
+
