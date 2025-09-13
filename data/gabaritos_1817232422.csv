@@ -1,0 +1,223 @@
+id,exam_year,data_prova,exam_type,source_file,question_number,gabarito,descritores,subject
+2017-INT-01,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,1,C,D3,Portugues
+2017-INT-07,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,7,B,D1;D527;D7,Portugues
+2017-INT-08,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,8,D,D22;D23,Portugues
+2017-INT-11,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,11,E,D433;D161;D19;D34,Matematica
+2017-INT-13,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,13,C,D34;D58,Matematica
+2017-INT-15,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,15,B,D54;D55,Matematica
+2017-INT-16,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,16,B,D35;D41;D50,Matematica
+2017-INT-17,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,17,D,D3;D22;D30,Matematica
+2017-INT-18,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,18,C,D7;D22;D30;D44,Matematica
+2017-INT-20,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,20,D,D7;D22;D27;D30;D40;D51,Matematica
+2017-INT-21,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,21,D,D552;D5,Ciencias Naturais
+2017-INT-22,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,22,E,D603;D232;D4,Ciencias Naturais
+2017-INT-24,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,24,C,D47;D13,Ciencias Naturais
+2017-INT-25,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,25,C,D4;D25;D28,Ciencias Naturais
+2017-INT-26,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,26,E,D8,Ciencias Naturais
+2017-INT-28,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,28,D,D13;D149;D18,Ciencias Naturais
+2017-INT-29,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,29,D,D19;D7;D26;D413;D38,Ciencias Naturais
+2017-INT-32,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,32,B,D23,Historia
+2017-INT-33,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,33,D,D1;D2;D19;D20;D24;D29;D32;D35,Historia
+2017-INT-34,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,34,,D37,Historia
+2017-INT-35,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,35,C,D21;D23,Historia
+2017-INT-36,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,36,E,D12;D14,Geografia
+2017-INT-37,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,37,B,D7;D9;D11,Geografia
+2017-INT-38,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,38,D,D4;D34;D35;D27;D28,Geografia
+2017-INT-40,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,40,D,D7;D13;D19,Geografia
+2017-INT-44,2017,2016-12-08,Integrado/Concomitante,gabarito2017.pdf,44,E,D7;D8,Outro
+2018-INT-01,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,1,B,D3,Portugues
+2018-INT-02,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,2,D,D7,Portugues
+2018-INT-03,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,3,B,D37,Portugues
+2018-INT-04,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,4,C,D6,Portugues
+2018-INT-05,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,5,D,D25,Portugues
+2018-INT-06,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,6,A,D33,Portugues
+2018-INT-07,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,7,A,D4,Portugues
+2018-INT-08,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,8,D,D32,Portugues
+2018-INT-09,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,9,D,D17,Portugues
+2018-INT-10,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,10,E,D38,Portugues
+2018-INT-11,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,11,D,D11;D20;D44;D51,Matematica
+2018-INT-12,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,12,B,D3,Matematica
+2018-INT-13,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,13,C,D7;D9;D24,Matematica
+2018-INT-14,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,14,B,D18;D19;D43,Matematica
+2018-INT-15,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,15,E,D17;D27;D30;D49,Matematica
+2018-INT-16,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,16,A,D34;D35;D41;D44,Matematica
+2018-INT-17,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,17,D,D17;D18,Matematica
+2018-INT-18,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,18,A,D54,Matematica
+2018-INT-19,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,19,C,D5;D7;D9;D11;D14;D17;D28;D30,Matematica
+2018-INT-20,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,20,E,D49;D51,Matematica
+2018-INT-21,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,21,B,D54,Ciencias Naturais
+2018-INT-22,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,22,D,D61,Ciencias Naturais
+2018-INT-23,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,23,A,D44;D45,Ciencias Naturais
+2018-INT-24,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,24,D,D47,Ciencias Naturais
+2018-INT-25,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,25,B,D45,Ciencias Naturais
+2018-INT-26,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,26,D,D10,Ciencias Naturais
+2018-INT-27,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,27,B,D5;D17;D18,Ciencias Naturais
+2018-INT-28,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,28,A,D27;D28;D32,Ciencias Naturais
+2018-INT-29,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,29,C,D20;D23,Ciencias Naturais
+2018-INT-30,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,30,C,D14;D15;D35,Ciencias Naturais
+2018-INT-31,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,31,A,D17,Historia
+2018-INT-32,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,32,B,D18,Historia
+2018-INT-33,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,33,A,D31,Historia
+2018-INT-34,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,34,C,D24,Historia
+2018-INT-35,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,35,ANULADA,D22,Historia
+2018-INT-36,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,36,ANULADA,D12;D13;D14,Geografia
+2018-INT-37,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,37,E,D24,Geografia
+2018-INT-38,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,38,C,D31,Geografia
+2018-INT-39,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,39,B,D10;D29,Geografia
+2018-INT-40,2018,2017-12-14,Integrado/Concomitante,gabarito2018.pdf,40,ANULADA,D16;D17,Geografia
+2022-INT-01,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,1,C,D22,Portugues
+2022-INT-02,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,2,E,D1,Portugues
+2022-INT-03,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,3,C,D21,Portugues
+2022-INT-04,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,4,E,D21,Portugues
+2022-INT-05,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,5,C,D26,Portugues
+2022-INT-06,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,6,B,D16,Portugues
+2022-INT-07,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,7,A,D10,Portugues
+2022-INT-08,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,8,A,D28,Portugues
+2022-INT-09,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,9,B,D25,Portugues
+2022-INT-10,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,10,E,D32,Portugues
+2022-INT-11,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,11,A,D35,Matematica
+2022-INT-12,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,12,D,D34;D44;D47,Matematica
+2022-INT-13,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,13,B,D45,Matematica
+2022-INT-14,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,14,C,D19;D33;D43;D49,Matematica
+2022-INT-15,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,15,D,D34;D44,Matematica
+2022-INT-16,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,16,E,D2;D49,Matematica
+2022-INT-18,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,18,D,D5;D11;D14;D16,Matematica
+2022-INT-19,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,19,C,D13;D17;D18;D27;D32;D45,Matematica
+2022-INT-20,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,20,A,D3;D20;D23;D25;D31,Matematica
+2022-INT-21,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,21,B,D51,Ciencias Naturais
+2022-INT-22,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,22,A,D60,Ciencias Naturais
+2022-INT-23,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,23,B,D44;D45,Ciencias Naturais
+2022-INT-24,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,24,A,D44;D45,Ciencias Naturais
+2022-INT-25,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,25,B,D44;D45;D46;D47,Ciencias Naturais
+2022-INT-26,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,26,A,D23;D34,Ciencias Naturais
+2022-INT-27,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,27,D,D24,Ciencias Naturais
+2022-INT-28,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,28,C,D12,Ciencias Naturais
+2022-INT-29,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,29,E,D5;D11,Ciencias Naturais
+2022-INT-30,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,30,B,D21,Ciencias Naturais
+2022-INT-31,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,31,A,D2,Historia
+2022-INT-32,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,32,E,D18;D25,Historia
+2022-INT-33,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,33,B,D2;D4,Historia
+2022-INT-34,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,34,D,D1;D16,Historia
+2022-INT-35,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,35,B,D24,Historia
+2022-INT-36,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,36,A,D16;D34;D1;D7;D30;D44,Geografia
+2022-INT-37,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,37,D,D27,Geografia
+2022-INT-38,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,38,E,D21,Geografia
+2022-INT-39,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,39,C,D36,Geografia
+2022-INT-40,2022,2022-06-28,Integrado/Concomitante,gabarito2022.pdf,40,E,D4,Geografia
+2023-INT-01,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,1,,D11,Portugues
+2023-INT-02,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,2,,D9,Portugues
+2023-INT-03,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,3,,D22,Portugues
+2023-INT-04,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,4,,D33,Portugues
+2023-INT-05,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,5,,D23,Portugues
+2023-INT-06,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,6,,D12,Portugues
+2023-INT-07,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,7,,D29,Portugues
+2023-INT-08,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,8,,D30,Portugues
+2023-INT-09,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,9,,D18,Portugues
+2023-INT-10,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,10,,D1,Portugues
+2023-INT-11,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,11,,D19;D54;D55,Matematica
+2023-INT-12,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,12,,D44;D45;D47,Matematica
+2023-INT-15,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,15,,D44;D30,Matematica
+2023-INT-17,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,17,,D34;D47;D51,Matematica
+2023-INT-18,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,18,,D11;D16,Matematica
+2023-INT-19,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,19,,D23;D25;D32,Matematica
+2023-INT-20,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,20,,D16;D17;D18,Matematica
+2023-INT-21,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,21,,D60,Ciencias Naturais
+2023-INT-22,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,22,,D55,Ciencias Naturais
+2023-INT-23,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,23,,D44;D45;D47,Ciencias Naturais
+2023-INT-24,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,24,,D52,Ciencias Naturais
+2023-INT-25,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,25,,D47;D50;D51,Ciencias Naturais
+2023-INT-26,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,26,,D26,Ciencias Naturais
+2023-INT-27,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,27,,D27,Ciencias Naturais
+2023-INT-28,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,28,,D17,Ciencias Naturais
+2023-INT-29,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,29,,D22,Ciencias Naturais
+2023-INT-30,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,30,,D7,Ciencias Naturais
+2023-INT-31,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,31,,D5,Historia
+2023-INT-32,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,32,,D5;D19;D49;D54;D55,Historia
+2023-INT-33,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,33,,D2;D6;D27;D22;D30;D41;D50,Historia
+2023-INT-34,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,34,,D18;D19,Historia
+2023-INT-35,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,35,,D23;D17;D18;D34;D35,Historia
+2023-INT-36,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,36,,D31;D28,Geografia
+2023-INT-37,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,37,,D5;D14,Geografia
+2023-INT-38,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,38,,D27,Geografia
+2023-INT-39,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,39,,D17;D22,Geografia
+2023-INT-40,2023,2022-12-12,Integrado/Concomitante,gabarito2023.pdf,40,D,D27;D31,Geografia
+2024-INT-01,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,1,D,D10,Portugues
+2024-INT-02,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,2,C,D21,Portugues
+2024-INT-03,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,3,C,D7,Portugues
+2024-INT-04,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,4,D,D3,Portugues
+2024-INT-05,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,5,E,D28,Portugues
+2024-INT-06,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,6,A,D4,Portugues
+2024-INT-07,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,7,B,D33,Portugues
+2024-INT-08,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,8,A,D22,Portugues
+2024-INT-09,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,9,E,D16,Portugues
+2024-INT-10,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,10,B,D8,Portugues
+2024-INT-11,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,11,ANULADA,D9;D22;D27;D44;D45,Matematica
+2024-INT-12,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,12,B,D19;D49;D55,Matematica
+2024-INT-13,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,13,E,D11,Matematica
+2024-INT-14,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,14,D,D37;D54;D55;D49,Matematica
+2024-INT-15,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,15,B,D19;D29;D30;D34,Matematica
+2024-INT-16,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,16,E,D14;D34;D54,Matematica
+2024-INT-17,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,17,E,D23;D31;D12;D38;D44,Matematica
+2024-INT-18,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,18,A,D45;D27;D11;D30,Matematica
+2024-INT-19,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,19,A,D19,Matematica
+2024-INT-20,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,20,ANULADA,D51;D22,Matematica
+2024-INT-21,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,21,D,D61,Ciencias Naturais
+2024-INT-22,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,22,B,D51;D52;D54,Ciencias Naturais
+2024-INT-23,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,23,A,D44,Ciencias Naturais
+2024-INT-24,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,24,D,D45;D48,Ciencias Naturais
+2024-INT-25,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,25,ANULADA,D47,Ciencias Naturais
+2024-INT-26,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,26,C,D35,Ciencias Naturais
+2024-INT-27,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,27,E,D34,Ciencias Naturais
+2024-INT-28,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,28,E,D23,Ciencias Naturais
+2024-INT-29,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,29,A,D7,Ciencias Naturais
+2024-INT-30,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,30,B,D27,Ciencias Naturais
+2024-INT-31,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,31,B,D2,Historia
+2024-INT-32,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,32,A,D25,Historia
+2024-INT-33,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,33,ANULADA,D21;D25,Historia
+2024-INT-34,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,34,ANULADA,D22;D24,Historia
+2024-INT-35,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,35,B,D1;D14,Historia
+2024-INT-36,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,36,A,D23,Geografia
+2024-INT-37,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,37,C,D31,Geografia
+2024-INT-38,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,38,D,D27;D28;D30,Geografia
+2024-INT-39,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,39,E,D19,Geografia
+2024-INT-40,2024,2023-12-11,Integrado/Concomitante,gabarito2024.pdf,40,E,D8,Geografia
+2024-SUB-01,2024,2023-12-11,Subsequente,gabarito2024.pdf,1,D,D5,Portugues
+2024-SUB-02,2024,2023-12-11,Subsequente,gabarito2024.pdf,2,E,D3,Portugues
+2024-SUB-03,2024,2023-12-11,Subsequente,gabarito2024.pdf,3,E,D9,Portugues
+2024-SUB-04,2024,2023-12-11,Subsequente,gabarito2024.pdf,4,A,D7,Portugues
+2024-SUB-05,2024,2023-12-11,Subsequente,gabarito2024.pdf,5,A,D29,Portugues
+2024-SUB-06,2024,2023-12-11,Subsequente,gabarito2024.pdf,6,C,D33,Portugues
+2024-SUB-07,2024,2023-12-11,Subsequente,gabarito2024.pdf,7,B,D20,Portugues
+2024-SUB-08,2024,2023-12-11,Subsequente,gabarito2024.pdf,8,D,D12,Portugues
+2024-SUB-09,2024,2023-12-11,Subsequente,gabarito2024.pdf,9,C,D8,Portugues
+2024-SUB-10,2024,2023-12-11,Subsequente,gabarito2024.pdf,10,D,D1,Portugues
+2024-SUB-11,2024,2023-12-11,Subsequente,gabarito2024.pdf,11,E,D17;D30;D31,Matematica
+2024-SUB-12,2024,2023-12-11,Subsequente,gabarito2024.pdf,12,A,D14;D30;D33,Matematica
+2024-SUB-13,2024,2023-12-11,Subsequente,gabarito2024.pdf,13,C,D12;D17;D20,Matematica
+2024-SUB-14,2024,2023-12-11,Subsequente,gabarito2024.pdf,14,B,D46;D47;D48;D49;D50,Matematica
+2024-SUB-15,2024,2023-12-11,Subsequente,gabarito2024.pdf,15,A,D44;D46;D47;D48;D49;D50,Matematica
+2024-SUB-16,2024,2023-12-11,Subsequente,gabarito2024.pdf,16,A,D4,Matematica
+2024-SUB-17,2024,2023-12-11,Subsequente,gabarito2024.pdf,17,E,D26,Matematica
+2024-SUB-18,2024,2023-12-11,Subsequente,gabarito2024.pdf,18,E,D28,Matematica
+2024-SUB-19,2024,2023-12-11,Subsequente,gabarito2024.pdf,19,B,D16;D21;D24,Matematica
+2024-SUB-20,2024,2023-12-11,Subsequente,gabarito2024.pdf,20,A,D40;D41,Matematica
+2024-SUB-21,2024,2023-12-11,Subsequente,gabarito2024.pdf,21,E,D13;D17,Ciencias Naturais
+2024-SUB-22,2024,2023-12-11,Subsequente,gabarito2024.pdf,22,E,D3;D7;D9,Ciencias Naturais
+2024-SUB-23,2024,2023-12-11,Subsequente,gabarito2024.pdf,23,B,D31;D33,Ciencias Naturais
+2024-SUB-24,2024,2023-12-11,Subsequente,gabarito2024.pdf,24,A,D24,Ciencias Naturais
+2024-SUB-25,2024,2023-12-11,Subsequente,gabarito2024.pdf,25,C,D44,Ciencias Naturais
+2024-SUB-26,2024,2023-12-11,Subsequente,gabarito2024.pdf,26,D,D11,Ciencias Naturais
+2024-SUB-27,2024,2023-12-11,Subsequente,gabarito2024.pdf,27,C,D15,Ciencias Naturais
+2024-SUB-28,2024,2023-12-11,Subsequente,gabarito2024.pdf,28,E,D7,Ciencias Naturais
+2024-SUB-29,2024,2023-12-11,Subsequente,gabarito2024.pdf,29,D,D17,Ciencias Naturais
+2024-SUB-30,2024,2023-12-11,Subsequente,gabarito2024.pdf,30,A,D32,Ciencias Naturais
+2024-SUB-31,2024,2023-12-11,Subsequente,gabarito2024.pdf,31,E,D18,Historia
+2024-SUB-32,2024,2023-12-11,Subsequente,gabarito2024.pdf,32,B,D34,Historia
+2024-SUB-33,2024,2023-12-11,Subsequente,gabarito2024.pdf,33,D,D23,Historia
+2024-SUB-34,2024,2023-12-11,Subsequente,gabarito2024.pdf,34,B,D31,Historia
+2024-SUB-35,2024,2023-12-11,Subsequente,gabarito2024.pdf,35,D,D37,Historia
+2024-SUB-36,2024,2023-12-11,Subsequente,gabarito2024.pdf,36,C,D40,Geografia
+2024-SUB-37,2024,2023-12-11,Subsequente,gabarito2024.pdf,37,C,D11,Geografia
+2024-SUB-38,2024,2023-12-11,Subsequente,gabarito2024.pdf,38,B,D16,Geografia
+2024-SUB-39,2024,2023-12-11,Subsequente,gabarito2024.pdf,39,A,D19,Geografia
+2024-SUB-40,2024,2023-12-11,Subsequente,gabarito2024.pdf,40,B,D50,Geografia
