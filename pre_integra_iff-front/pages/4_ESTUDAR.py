@@ -78,7 +78,7 @@ if descritor_relacionado is None:
     tema = df_matriz.loc[df_matriz["Descritor"] == descritor, "Tema"] if not df_matriz.loc[df_matriz["Descritor"] == descritor_relacionado, "Tema"].empty else "Tema não encontrado"
 
     # Exibir imagem e conteúdo escolhido
-    st.image("images/simbolo(1).png", width=200)
+    st.image(image1_path, width=200)
     st.markdown(f""" <h3 style="margin-bottom: 0px;"> estudar sobre: </h3>""", unsafe_allow_html=True)
     st.markdown(f""" <h1 style="color: #93C56D; margin-bottom: 0px;"> {conteudo_escolha} </h1>""", unsafe_allow_html=True)
 
@@ -104,7 +104,7 @@ else:
     tema = df_matriz.loc[df_matriz["Descritor"] == descritor_relacionado, "Tema"] if not df_matriz.loc[df_matriz["Descritor"] == descritor_relacionado, "Tema"].empty else "Tema não encontrado"
 
     # Exibir imagem e conteúdo relacionado ao descritor
-    st.image("images/simbolo(1).png", width=200)
+    st.image(image1_path, width=200)
     st.markdown(f""" <h3 style="margin-bottom: 0px;"> estudar sobre: </h3>""", unsafe_allow_html=True)
     st.markdown(f""" <h1 style="color: #93C56D; margin-bottom: 0px;"> {conteudo} </h1>""", unsafe_allow_html=True)
 
