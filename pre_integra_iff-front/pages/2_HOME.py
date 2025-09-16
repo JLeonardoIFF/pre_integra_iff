@@ -46,12 +46,14 @@ st.markdown("""
 lista_escolha = ["Padrão", "Edital", "Banco_Provas", "Matriz"]
 materia_escolha = st.sidebar.selectbox("ESCOLHA - INFORMAÇÕES GERAIS", lista_escolha)
 
+image_path = project_root / "images" / "simbolo.png"
+image2_path = project_root / "images" / "simbolo(1).png"
 if materia_escolha == "Padrão":
 
     #st.sidebar.image("images/simbolo.png", width=650)
-    st.logo("images/simbolo.png", size="large")
+    st.logo(str(image_path), size="large")
     #st.logo("images/abajo.png", size="large")
-    st.image("images/simbolo(1).png", width=200)
+    st.image(str(image2_path), width=200)
     st.write(""" # Pre IFF - Integra """)
     st.markdown(""" <h3 style="color: #93C56D; margin-bottom: 0px;"> Site de preparação pre-IFF </h3>""", unsafe_allow_html=True)
     st.markdown("""<h5 style="margin-bottom: 0px;"> <u> (exclusivo para Eloá, Lorena e Laura) </u> </h5>""", unsafe_allow_html=True)
@@ -91,20 +93,22 @@ if materia_escolha == "Padrão":
                             Anexos<br> """, unsafe_allow_html=True)
     with col22:
         with st.container(border=True, width=300):
-            st.image("images/matrizimg.png", width=200)
+            image3_path = project_root / "images" / "matrizimg.png"
+            st.image(str(image3_path), width=200)
 
             st.divider()
 
             st.markdown("""<p> este é o documento com todas informaçoes referentes a: <br> """, unsafe_allow_html=True)
     with col33:
         with st.container(border=True, width=300):
-            st.image("images/bancoprovas.png", width=200)
+            image4_path = project_root / "images" / "bancoprovas.png"
+            st.image(str(image4_path), width=200)
             
             st.divider()
 
             st.markdown("""<p> este é o banco que armazena <br> as seguintes provas do IFF anteriores <br> 2025.1, 2024.1, 2023.1, """, unsafe_allow_html=True)
 elif materia_escolha == "Edital":
-    st.image("images/simbolo.png", width=300)
+    st.image(image1_path, width=300)
 
     st.write(""" # Edital IFF """)
     st.markdown("### Aqui esta o conteudo em PDF do edital do IFF 2026", unsafe_allow_html=True)
@@ -136,7 +140,7 @@ elif materia_escolha == "Edital":
 
 
 elif materia_escolha == "Matriz":
-    st.image("images/simbolo.png", width=300)
+    st.image(image1_path, width=300)
 
     st.write(""" # Matriz IFF """)
     st.markdown("""<h3 style ="color: #93C56D;"> Aqui esta o dataFrame da Matriz do IFF 2026 </h2>""", unsafe_allow_html=True)
