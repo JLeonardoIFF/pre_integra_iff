@@ -6,6 +6,7 @@ import pandas as pd
 import re
 from auth import require_login
 from supabase_db import upsert_user_progress_cache, load_progress_all, upsert_progress_item, sanitize_key
+from pathlib import Path
 
 require_login()
 
