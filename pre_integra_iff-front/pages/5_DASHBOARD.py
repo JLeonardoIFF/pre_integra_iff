@@ -37,8 +37,13 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+def get_df():
+    base_dir = Path(__file__).resolve().parent
+    project_root = base_dir.parent
+    csv_path = project_root / "data" / "gabaritos_1817232422.csv"
+    return pd.read_csv(csv_path)
 #carrega dataframes usados
-df_gabarito = pd.read_csv("data/gabaritos_1817232422.csv")
+df_gabarito = get_df()
 df_matriz =  st.session_state.get("df_matriz")
 
 #conta a quantidade de repeticoes do Dn por coluna
