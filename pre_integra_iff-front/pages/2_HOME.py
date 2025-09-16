@@ -85,8 +85,8 @@ if materia_escolha == "Padrão":
 
     with col11:
         with st.container(border=True, width=300):
-            
-            st.image("images/editalimg.png", width=200)
+            editalimg = project_root / "images" / "editalimg.png
+            st.image(str(editalimg), width=200)
 
             st.divider()
 
