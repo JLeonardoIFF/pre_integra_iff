@@ -13,7 +13,7 @@ def get_data():
     base_dir = Path(__file__).resolve().parent
     project_root = base_dir.parent
     csv_path = project_root / "data" / "matrizreferencia.csv"
-    return pd.read_csv("csv_path")
+    return pd.read_csv(csv_path)
 
 df_matriz = get_data()
 st.session_state["df_matriz"] = df_matriz
