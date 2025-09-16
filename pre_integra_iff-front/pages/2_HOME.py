@@ -126,7 +126,7 @@ elif materia_escolha == "Edital":
 
     with coluna2:
         base_dir = Path(__file__).resolve().parent
-        project_root = base_dir.paren
+        project_root = base_dir.parent
         caminho_pdf = project_root / "data" / "edital20261.pdf"
 
         # Abre o PDF em modo binário
