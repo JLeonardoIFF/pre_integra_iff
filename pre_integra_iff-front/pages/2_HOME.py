@@ -46,6 +46,9 @@ st.markdown("""
 lista_escolha = ["Padrão", "Edital", "Banco_Provas", "Matriz"]
 materia_escolha = st.sidebar.selectbox("ESCOLHA - INFORMAÇÕES GERAIS", lista_escolha)
 
+base_dir = Path(__file__).resolve().parent
+project_root = base_dir.paren
+
 image_path = project_root / "images" / "simbolo.png"
 image2_path = project_root / "images" / "simbolo(1).png"
 if materia_escolha == "Padrão":
