@@ -121,13 +121,13 @@ elif materia_escolha == "Edital":
     with coluna1:
         base_dir = Path(__file__).resolve().parent
         project_root = base_dir.parent
-        caminho_pdf = project_root / "data" / "data/edital20261.pdf"
+        caminho_pdf = project_root / "data" / "edital20261.pdf"
         st.pdf(caminho_pdf, height=400)
 
     with coluna2:
         base_dir = Path(__file__).resolve().parent
         project_root = base_dir.paren
-        caminho_pdf = project_root / "data" / "data/edital20261.pdf"
+        caminho_pdf = project_root / "data" / "edital20261.pdf"
 
         # Abre o PDF em modo binário
         with open(caminho_pdf, "rb") as f:
