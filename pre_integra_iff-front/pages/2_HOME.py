@@ -120,7 +120,7 @@ elif materia_escolha == "Edital":
 
     with coluna1:
         base_dir = Path(__file__).resolve().parent
-        project_root = base_dir.paren
+        project_root = base_dir.parent
         caminho_pdf = project_root / "data" / "data/edital20261.pdf"
         st.pdf(caminho_pdf, height=400)
 
