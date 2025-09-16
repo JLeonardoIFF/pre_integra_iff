@@ -9,8 +9,14 @@ from supabase_db import upsert_user_progress_cache, load_progress_all, upsert_pr
 from pathlib import Path
 
 require_login()
+base_dir = Path(__file__).resolve().parent
+project_root = base_dir.parent
 
-st.logo("images/simbolo.png", size="large")
+image_path = project_root / "images" / "simbolo.png"
+image1_path = project_root / "images" / "simbolo(1).png"
+
+st.logo(image_path, size="large")
+st.image(image1_path, width=300)
 
 st.markdown("""
     <style>
