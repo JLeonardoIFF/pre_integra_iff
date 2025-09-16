@@ -5,7 +5,13 @@ import pymupdf
 
 require_login()
 
-st.logo("images/simbolo.png", size="large")
+base_dir = Path(__file__).resolve().parent
+project_root = base_dir.parent
+
+image_path = project_root / "images" / "simbolo.png"
+image1_path = project_root / "images" / "simbolo(1).png"
+
+st.logo(image_path, size="large")
 
 st.markdown("""
     <style>
