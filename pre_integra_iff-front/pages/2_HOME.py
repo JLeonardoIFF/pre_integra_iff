@@ -11,7 +11,7 @@ require_login()
 def get_data():
     # sempre retorna o dataframe (antes retornava só dentro do if)
     base_dir = Path(__file__).resolve().parent
-    project_root = base_dir.paren
+    project_root = base_dir.parent
     csv_path = project_root / "data" / "matrizreferencia.csv"
     return pd.read_csv("csv_path")
 
