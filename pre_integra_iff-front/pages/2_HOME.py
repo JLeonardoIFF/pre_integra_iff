@@ -56,7 +56,7 @@ if materia_escolha == "Padrão":
     #st.sidebar.image("images/simbolo.png", width=650)
     st.logo(str(image_path), size="large")
     #st.logo("images/abajo.png", size="large")
-    st.image(str(image2_path), width=200)
+    st.image(str(image1_path), width=200)
     st.write(""" # Pre IFF - Integra """)
     st.markdown(""" <h3 style="color: #93C56D; margin-bottom: 0px;"> Site de preparação pre-IFF </h3>""", unsafe_allow_html=True)
     st.markdown("""<h5 style="margin-bottom: 0px;"> <u> (exclusivo para Eloá, Lorena e Laura) </u> </h5>""", unsafe_allow_html=True)
