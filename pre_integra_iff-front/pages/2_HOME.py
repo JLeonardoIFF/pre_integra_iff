@@ -50,7 +50,7 @@ base_dir = Path(__file__).resolve().parent
 project_root = base_dir.parent
 
 image_path = project_root / "images" / "simbolo.png"
-image2_path = project_root / "images" / "simbolo(1).png"
+image1_path = project_root / "images" / "simbolo(1).png"
 if materia_escolha == "Padrão":
 
     #st.sidebar.image("images/simbolo.png", width=650)
