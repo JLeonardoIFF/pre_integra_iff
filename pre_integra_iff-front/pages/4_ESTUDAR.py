@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from auth import require_login
 import pymupdf
+from pathlib import Path
 
 require_login()
 
