@@ -43,7 +43,7 @@ df_matriz =  st.session_state.get("df_matriz")
 #conta a quantidade de repeticoes do Dn por coluna
 
 #st.logo("images/abajo.png", size="large")
-st.image("images/simbolo(1).png", width=200)
+st.image(image1_path, width=200)
 st.write(""" ## Dados - Integra  """)
 st.markdown("""<h4 style="color: #93C56D">  aqui voce acompanha graficos e estatisticas uteis para mapear <br> a prova do iff rumo sua aprovação </h4>""", unsafe_allow_html=True)
 
